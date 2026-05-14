@@ -1,0 +1,29 @@
+{
+  "class_names": [
+    "bacterial_leaf_blight",
+    "brown_spot",
+    "healthy",
+    "leaf_blast",
+    "leaf_scald",
+    "narrow_brown_spot",
+    "non_rice_leaf"
+  ],
+  "display_names": {
+    "bacterial_leaf_blight": "Bacterial Leaf Blight",
+    "brown_spot": "Brown Spot",
+    "healthy": "Healthy",
+    "leaf_blast": "Leaf Blast",
+    "leaf_scald": "Leaf Scald",
+    "narrow_brown_spot": "Narrow Brown Spot",
+    "non_rice_leaf": "Non Rice Leaf"
+  },
+  "descriptions": {
+    "bacterial_leaf_blight": "A serious bacterial disease causing water-soaked to yellowish stripes on leaf margins. Caused by Xanthomonas oryzae pv. oryzae.",
+    "brown_spot": "A fungal disease causing small circular brown spots with grey centres. Caused by Cochliobolus miyabeanus.",
+    "healthy": "No disease detected. The leaf appears healthy.",
+    "leaf_blast": "A fungal disease producing diamond-shaped lesions with grey centres and brown borders. Caused by Magnaporthe oryzae.",
+    "leaf_scald": "Causes pale yellow-green lesions along leaf margins. Caused by Microdochium oryzae.",
+    "narrow_brown_spot": "Narrow linear brown lesions parallel to leaf veins. Caused by Cercospora janseana.",
+    "non_rice_leaf": "The uploaded image does not appear to be a rice leaf. Please upload a clear photograph of a rice leaf."
+  }
+}
