@@ -7,7 +7,6 @@ export default function Navbar() {
         🌾 Rice Leaf Classifier
       </Link>
       <div className="navbar-links">
-        <Link to="/">Classify</Link>
         <Link to="/admin">Admin</Link>
       </div>
     </nav>
